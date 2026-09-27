@@ -163,7 +163,7 @@ In altre parole, siamo di fronte ad una dicotomia tra la rappresentazione del pr
 nella sue forma intesa per il consumo umano (codice sorgente) ed in quella intesa per
 l'utilizzo da parte della macchina (codice macchina). La prima è pensata per essere
 scritta (e letta) da persone; la seconda per essere eseguita da un calcolatore. Tenetelo
-a mente, perché anche in un era in cui parte della scrittura dei programmi viene
+a mente, perché anche in un'era in cui parte della scrittura dei programmi viene
 regolarmente demandata a LLM ed agenti, questa distinzione continua ad essere rilevante.
 
 Se avete mai sentito parlare di *programma eseguibile* o semplicemente *eseguibile*, la
@@ -182,7 +182,7 @@ a seconda del contesto, prende il nome di *assembler*, *compilatore* o *interpre
 
 L'assembler, come dice il nome, è un programma che traduce il codice sorgente in
 assembly language nel codice macchina corrispondente, ed è tipicamente un programma
-altamente specializzato che funzione solo per una particolare architettura ed un
+altamente specializzato che funziona solo per una particolare architettura ed un
 particolare tipo di CPU. Il programma in assembly language per lo Zilog Z80 che
 abbiamo visto prima, ad esempio, una volta assemblato nel linguaggio macchina
 corrispondente sarebbe qualcosa del tipo:
@@ -243,7 +243,7 @@ utilizzabile dal calcolatore. Superficialmente può sembrare esattamente la stes
 che fa l'assembler, ma nella realtà il compilatore fa molto di più, perché nel
 programma qui sopra *è scomparso ogni riferimento ai dettagli dell'hardware*.
 Non ci sono indirizzi di memoria o registri, solo costrutti di alto livello che il
-compilatore deve tradurre in istruzioni veri e proprie per l'architettura di riferimento.
+compilatore deve tradurre in istruzioni vere e proprie per l'architettura di riferimento.
 In altre parole, il lavoro dell'assembler è relativamente semplice---si tratta
 principalmente di una traduzione uno ad uno di istruzioni da codice sorgente a codice
 macchina. Il lavoro del compilatore è molto più sofisticato, perché nel processo deve
