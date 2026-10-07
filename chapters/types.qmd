@@ -87,11 +87,11 @@ x = 2x - 4 \quad\text{e}\quad 2x = 2
 $$
 Formalmente sono identiche a quello che abbiamo scritto nei due frammenti di codice
 sopra, ma questa volta le interpretiamo come semplici equazioni di primo grado le cui
-soluzioni sono $x = 4$ e $x = 1$, rispettivamente. In entrambi casi la conclusione è
+soluzioni sono $x = 4$ e $x = 1$, rispettivamente. In entrambi i casi la conclusione è
 completamente diversa.
 
 La differenza fondamentale è che il segno di uguaglianza in aritmetica si mette tra
-due espressioni, non tra un nome ed un espressione. Non è cosa da poco, ed è
+due espressioni, non tra un nome ed un'espressione. Non è cosa da poco, ed è
 potenzialmente contro-intuitivo per chi si avvicina alla programmazione con
 un'educazione pregressa di tipo matematico (in pratica tutti).
 
